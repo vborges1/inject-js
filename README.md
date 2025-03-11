@@ -1,6 +1,6 @@
 # Inject JS for Views
 
-This project allows you to dynamically inject and execute JS functions in Pug views (formerly Jade, etc.) in an Express.js application, making it easier to execute functions defined in JS files directly within the views without needing to make AJAX calls or modify backend code. The system is highly configurable and dynamically looks for functions in files inside the public/js directory.
+This project allows you to dynamically inject and execute JS functions in views (pug, jade, etc.) in an Express.js application, making it easier to execute functions defined in JS files directly within the views without needing to make AJAX calls or modify backend code. The system is highly configurable and dynamically looks for functions in files inside the public/js directory.
 
 ## Features
 
