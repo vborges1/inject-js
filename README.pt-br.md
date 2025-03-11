@@ -1,4 +1,4 @@
-# Inject JS for Views
+# Inject JS for Views em ExpressJS
 
 Este projeto permite injetar e executar funções JS dinamicamente nas views (pug, jade, etc) em um aplicativo Express.js, facilitando a execução de funções definidas em arquivos JS diretamente nas views sem precisar fazer chamadas AJAX ou modificações no código do backend. O sistema é altamente configurável e busca funções de maneira dinâmica nos arquivos dentro do diretório `public/js`.
 
